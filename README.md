@@ -5,7 +5,7 @@
 # VAE 
 VAE(Variation Auto Encoder From Scratch using Py-torch)
 
-# First we Must know What Is Auto Encoder  : Is architicture used to encoding images and reconstruct it may use for image compressing and reconstructing 
+# First we Must know What Is Auto Encoder  : It's architicture used to encoding images and reconstruct it may use for image compressing and reconstructing 
 but in Generative models could Generate new image only when add
 noise into latten space but its very hard to specify what is noise should add to make specefic task like changge the color of hair of people so ..
 we have Variation Auto Encoder
